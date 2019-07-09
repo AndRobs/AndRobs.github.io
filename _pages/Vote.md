@@ -7,6 +7,8 @@ featured_image: /images/rugby/teamweek5.jpg
 
 First, a few technicalities that you can probably just ignore. You can vote for the same person in multiple categories however one player will not be able to win more than one category. If a player has the most votes for more than one category then the highest second place will take that award. 
 
+You are not required to vote in every category. Leave the form on "Select" to not cast a vote in that category. 
+
 {% include RugbyVote.html %}
 
 I will know who you voted for but this information will be kept confidentia, however I require you to fill out your name to ensure nobody votes multiple times. 
