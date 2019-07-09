@@ -10,5 +10,7 @@ featured_image: /images/awards/Gazelle.png
 Your vote has been cast!
 
 Thank you so much for caring enough to cast your vote and celebrate the achievements of the GoodGym Newcastle team! ❤️
+
+
  ![](/images/Tynemouth/Trifle2.jpg)
 
