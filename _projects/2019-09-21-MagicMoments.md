@@ -2,7 +2,7 @@
 title: 'Magic Moments'
 subtitle: "Memories we've been sharing"
 date: 2019-09-21 00:00:00
-featured_image: "/images/rugby/golf1.jpg"
+featured_image: "/images/golf/golf1.jpg"
 ---
 
 
@@ -38,7 +38,6 @@ I could barely keep my eyes open when I got home.
 	<img src="/images/golf/orchard1.jpg">
 	<img src="/images/golf/orchard2.jpg">
 </div>
-
 
 Sunday was a new day and a new location. A beautiful orchard tucked away in the grounds of a cemetery. It was a lovely morning. The people were excellent. The orchard was charming. As we worked a tune was whistled into the Orchard from a resident of a nearby house. We didn’t know what the tune was at the time.
 
