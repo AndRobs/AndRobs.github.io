@@ -33,10 +33,10 @@ Morris dancing followed. I don’t know why. The Hokey Cokey with girl scouts on
 I could barely keep my eyes open when I got home.
 
 <div class="gallery" data-columns="2">
-	<img src="/images/golf/ouseburn.jpeg">
-	<img src="/images/golf/ouseburn2.jpeg">
-	<img src="/images/golf/orchard1.jpeg">
-	<img src="/images/golf/orchard2.jpeg">
+	<img src="/images/golf/ouseburn.jpg">
+	<img src="/images/golf/ouseburn2.jpg">
+	<img src="/images/golf/orchard1.jpg">
+	<img src="/images/golf/orchard2.jpg">
 </div>
 
 
