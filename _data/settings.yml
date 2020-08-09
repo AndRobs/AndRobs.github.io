@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: GG Newcastle Life
+  site_title: Nobody Asked
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -7,7 +7,7 @@ header_settings:
   logo_width: 200
 
 footer_settings:
-  footer_tagline: GG Newcastle – Social Life
+  footer_tagline: Nobody Asked - Andrew Robson
 
 grid_settings:
   overlay_opacity: 0.8
